@@ -1,4 +1,4 @@
-# Fundamentals_Of_Compiling_Project
+# Compiling
 
 本项目完成了编译原理期末作业的Task2.
 
